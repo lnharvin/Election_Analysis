@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Board of Elections employee has been given the task to complete an audit on a recent local congressional election.
+A Board of Elections employee has been given the task to complete an audit on a recent local congressional election. Task requirements are as follows:
   1. Calculate the total number of votes cast.
   2. Get a complete list of candidates who received votes.
   3. Calculate the total number of votes received for each candidate.
@@ -32,10 +32,12 @@ The analysis of the election data show that:
     - Diana DeGette received 73.8% of the vote and 272,892 votes.
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
-    - Candidate Diane DeGette who received 73.8% of the vote with 272,892 votes.
+    - Candidate Diane DeGette who received 73.8% (272,892) of the vote count.
 
 ## Challenge Overview
-This was a great introduction into Python, I've done some python coding before but I actually enjoyed this weeks lesson. I wasn't quite able to get me command code output to match exactly with the line spacing. If I changed the code to not include the line feed at the end of the results then the results would print in a single line in the text analysis file; only for the county votes. 
+This was a great introduction into Python, I've done some python coding before but I enjoyed this lesson. I wasn't quite able to get my command code output to match the challenge example exactly with the line spacing. If I changed the code to not include the line feed at the end of the results (line 107) then the results would print in a single line in the text analysis file; only for the county votes. 
 
 ## Challenge Summary
-This program could be reused in calculating next terms results provided the format (columns) in the source file are the same which would save time for the next analysist. 
+This program could be reused in calculating the next terms results, provided the format (columns) in the source file are the same which would save time for the next analysist. No additional changes would be needed if new counties were added to the results either.
+
+![Command Line Results](https://github.com/lnharvin/Election_Analysis/blob/main/command_line_election_results.png)
