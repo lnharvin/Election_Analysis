@@ -18,6 +18,7 @@ A Board of Elections employee has been given the task to complete an audit on a 
 ## Summary
 The analysis of the election data show that:
 - A total of 369,711 votes were cast
+- The county with the largest votes was Denver with 306,055 (82.8%) votes cast.
 - The candidates were:
 
     1 - Diana DeGette
@@ -34,6 +35,7 @@ The analysis of the election data show that:
     - Candidate Diane DeGette who received 73.8% of the vote with 272,892 votes.
 
 ## Challenge Overview
-This was a great introduction into Python, I've done some python coding before but I actually enjoyed this weeks lesson.
+This was a great introduction into Python, I've done some python coding before but I actually enjoyed this weeks lesson. I wasn't quite able to get me command code output to match exactly with the line spacing. If I changed the code to not include the line feed at the end of the results then the results would print in a single line in the text analysis file; only for the county votes. 
 
 ## Challenge Summary
+This program could be reused in calculating next terms results provided the format (columns) in the source file are the same which would save time for the next analysist. 
