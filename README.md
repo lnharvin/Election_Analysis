@@ -5,6 +5,7 @@ Description goes here ...
 
 ## Resources
 Data Source: election_results.csv
+
 Software: Python 3.10.1
 
 ## Summary
