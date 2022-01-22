@@ -1,17 +1,19 @@
 # Election_Analysis
 
 ## Project Overview
-A Board of Elections employee has been given the following task to complete an audit on a recent local congressional election.
+A Board of Elections employee has been given the task to complete an audit on a recent local congressional election.
   1. Calculate the total number of votes cast.
   2. Get a complete list of candidates who received votes.
   3. Calculate the total number of votes received for each candidate.
   4. Calculate the percentage of votes each candidate won.
   5. Determine the winner of the election based on the popular vote.
+  6. Calculate voter turnout for each county.
+  7. Calculate the percentage of votes from each county out of the total count.
+  8. Determine the county with the highest turnout.
 
 ## Resources
-Data Source: election_results.csv
-
-Software: Python 3.10.1
+- Data Source: election_results.csv
+- Software: Python 3.10.1
 
 ## Summary
 The analysis of the election data show that:
