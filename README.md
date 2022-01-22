@@ -41,3 +41,5 @@ This was a great introduction into Python, I've done some python coding before b
 This program could be reused in calculating the next terms results, provided the format (columns) in the source file are the same which would save time for the next analysist. No additional changes would be needed if new counties were added to the results either.
 
 ![Command Line Results](https://github.com/lnharvin/Election_Analysis/blob/main/command_line_election_results.png)
+
+[Link to Text Results](https://github.com/lnharvin/Election_Analysis/blob/main/election_analysis.txt)
